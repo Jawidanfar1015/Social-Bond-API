@@ -9,7 +9,7 @@ This is a Social Network API built using Mongoose and is ready to be hooked up t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Instructions](#instructions)
-- [Walktrough Video](#video)
+- [Walkthrough Video](#video)
 
 ## Installation
 
@@ -52,4 +52,4 @@ This project usage is for anyone that needs a back-end for their social network 
 
   # video
 
-  ![Watch here](https://drive.google.com/file/d/1kkagFMZf-SVEdCSifjb1wihBrb5Z2-cl/view)
+  ![Watch it here](https://drive.google.com/file/d/1kkagFMZf-SVEdCSifjb1wihBrb5Z2-cl/view)
