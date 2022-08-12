@@ -51,3 +51,5 @@ This project usage is for anyone that needs a back-end for their social network 
   - http://localhost:3001/api/thoughts/:thoughtsId/reactions/:reactionsId (required to delete a reaction from a thought)
 
   # video
+
+  ![Watch here](https://drive.google.com/file/d/1kkagFMZf-SVEdCSifjb1wihBrb5Z2-cl/view)
